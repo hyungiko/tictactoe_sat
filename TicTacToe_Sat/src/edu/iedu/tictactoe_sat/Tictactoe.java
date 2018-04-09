@@ -1,4 +1,4 @@
-package edu.iedu.tictactoe;
+package edu.iedu.tictactoe_sat;
 
 public class Tictactoe {
 
